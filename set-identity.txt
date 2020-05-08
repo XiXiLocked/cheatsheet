@@ -1,0 +1,4 @@
+git config --local --add  user.name XiXiLocked
+git config --local --add  user.email xijunyi1990@gmail.com
+
+
